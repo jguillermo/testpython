@@ -1,0 +1,4 @@
+- prefix: '/v1/notas'
+- routes:
+  - /: evaluation.application.framework.handlers.nota.NotaHandler
+
